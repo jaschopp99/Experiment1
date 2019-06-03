@@ -1,4 +1,7 @@
 yellow
 Orange
 pink
-Greenish
+greenish
+blue
+brown
+black
